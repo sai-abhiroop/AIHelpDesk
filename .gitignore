@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
